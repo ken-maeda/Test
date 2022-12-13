@@ -1,2 +1,2 @@
-figure.figsize  14, 6
-plt.style.use 'bmh'
+figure.figsize :14, 6
+plt.style.use : 'bmh'
